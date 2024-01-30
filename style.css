@@ -149,6 +149,7 @@ header {
   .card:nth-child(2) {
     flex-direction: column-reverse;
     text-align: center;
+    padding: 2rem;
   }
 }
 
